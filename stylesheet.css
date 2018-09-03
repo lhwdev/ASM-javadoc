@@ -7,20 +7,20 @@ body {
   margin: 0;
 }
 a:link {
-  color: #e91e64;
+  color: #3f51b5;
   text-decoration: none;
 }
 a:visited {
-  color: #e91e64;
+  color: #3f51b5;
   text-decoration: none;
 }
 a:hover {
-  color: #229977;
+  color: #303f9f;
   font-weight: bold;
   text-decoration: none;
 }
 a:focus {
-  color: #229977;
+  color: #303f9f;
   font-weight: bold;
   text-decoration: none;
 }
@@ -144,7 +144,7 @@ sup {
   width: 100%;
 }
 .topNav a:hover {
-  color: #229977;
+  color: #303f9f;
   text-decoration: none;
 }
 .bottomNav {
@@ -160,7 +160,7 @@ sup {
   width: 100%;
 }
 .bottomNav a:hover {
-  color: #229977;
+  color: #303f9f;
   text-decoration: none;
 }
 .subNav {
@@ -342,7 +342,7 @@ ul.blockList ul.blockListLast li.blocklist {
 .indexContainer h2 {
   font-size: 1.1em;
   padding: 10px;
-  background-color: #e91e64;
+  background-color: #3f51b5;
 }
 .indexContainer ul {
   margin: 0;
@@ -353,7 +353,7 @@ ul.blockList ul.blockListLast li.blocklist {
   padding: 0.3em;
 }
 .contentContainer .description dl dt {
-  color: #2979ff;
+  color: #448aff;
   font-size: 1.1em;
   font-weight: bold;
   margin: 10px 0 0 0;
@@ -365,7 +365,7 @@ ul.blockList ul.blockListLast li.blocklist {
   border-bottom: none;
 }
 .contentContainer .details dl dt {
-  color: #2979ff;
+  color: #448aff;
   font-size: 1.1em;
   font-weight: bold;
   margin: 10px 0 0 0;
@@ -384,7 +384,7 @@ ul.blockList ul.blockListLast li.blocklist {
   width: 100%;
 }
 .serializedFormContainer dl dt {
-  color: #2979ff;
+  color: #448aff;
   font-size: 1.1em;
   font-weight: bold;
   margin: 10px 0 0 0;
